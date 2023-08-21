@@ -1,1 +1,1 @@
-# minshotel3
+# minshotel
